@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.asifmanzoornajar.tk)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://www.asifmanzoornajar.tk)**
 
 - 📫 How to reach me **contactasifmanzoor@gmail.com**
 
