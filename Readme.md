@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'M ASIF MANZZOOR</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'M ASIF MANZOOR</h1>
 <h3 align="center"> WEB DEVELOPER | GRAPHIC DESIGNER | LEARNER </h3>
 
 
@@ -58,9 +58,9 @@
 
 <a href = "https://www.linkedin.com/in/asif-manzoor-40836b220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/iamasifmanzoor"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iamasifmanzoor"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/aaa7if"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/c/asifmanzoor"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.snapchat.com/add/iamaasifmanzoor"><img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/>
+<a href = "https://www.snapchat.com/add/aaa7if"><img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/>
 
 </p>
 
